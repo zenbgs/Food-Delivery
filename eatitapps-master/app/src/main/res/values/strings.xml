@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidEatIt</string>
+    <string name="slogan">No matter where you are: wheter where you are at home, or in the office, or on the beach - we will find you.</string>
+    <string name="open_drawer">Open Navigation Drawer</string>
+    <string name="close_drawer">Closer Navigation drawer</string>
+</resources>
